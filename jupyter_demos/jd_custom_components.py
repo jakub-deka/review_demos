@@ -227,7 +227,8 @@ class CombineData:
             
         meta = pd.DataFrame(meta)
         
-        res = pd.concat([llm, meta], axis=1).assign(date = lambda x: pd.to_datetime(x.date, format="%d %B %Y"))
+        # res = pd.concat([llm, meta], axis=1).assign(date = lambda x: pd.to_datetime(x.date, format="%d %B %Y"))
+        res = pd.concat([llm, meta], axis=1).assign(date = lambda x: pd.to_datetime(x.date, format="mixed"))
         return {"df": res}
     
 @component

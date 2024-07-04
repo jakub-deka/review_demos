@@ -6,3 +6,5 @@ Ollama-haystack
 chroma-haystack
 matplotlib
 seaborn
+bs4
+openpyxl

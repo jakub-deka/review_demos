@@ -1,4 +1,4 @@
-FROM python:3.9.19-bookworm
+FROM python:bookworm
 
 RUN apt update
 RUN apt install micro nano curl htop bash -y
