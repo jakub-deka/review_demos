@@ -85,3 +85,65 @@ The vast majority of reviews (around 95%) express satisfaction with their experi
 
 As an expert in evaluating reviews in bulk, I'd give this review set a high score (around 4.5 out of 5) based on the overall positivity and consistency across the reviews.
 ```
+
+## Review answerer
+
+Demonstrated LLMs capability to improve productivity by generating custom responses to negative reviews.
+
+This will use 2 different LLM agents. One of these agents will generate a response while the second one will check that response to ensure that it is polite.
+
+This type of application of LLMs can be further improved by embedding company policies, best practice and training manuals into the information available to each agent. They can also be instructed to check for various issues like inconsistencies with company policy or information provided.
+
+### Examples
+
+> Ash wrote:
+Absolute cowboys, customer help desk is a joke if you get through, try to rip you off as much as they can . I tried to close my account ( which they make increasingly difficult ) the person on the end of the phone had no idea and was trying to tell me I owed more than I did and when I questioned it they put it down > to computer error !!!! Tried to complain to the complaints department and got standard can’t help you apology 
+> 
+> 
+> ========
+> 
+> Here is the email:
+> 
+> Dear Ash,
+> 
+I am sorry to hear that your experience with our customer help desk has been disappointing. We take all complaints seriously and want to ensure that we provide the > best possible service to our customers.
+> 
+I would like to take this opportunity to speak with you further about your concerns and work towards a resolution. Could you please contact us at > complaints@118118money.com so that we can discuss the issues you have faced in more detail?
+> 
+> I look forward to hearing from you soon.
+> 
+> Best regards,
+> Jonathan Black, Senior Engagement Manager
+> 
+> ========
+> 
+> {
+> "assessment_grade": "A",
+> "summary": "Polite and compliant response"
+> }
+
+
+> Mathew Thomas wrote:
+Awful company, believe me once they have your bank details they will help themselves to whatever they want whenever they want.Customer service are useless and the complaints team are less than useless and will just send standard responses very close to the contracted deadlines.Do yourselves a favour and visit a loan shark > instead of this cowboy outfit as the service you receive will be more compassionate.Escalating complaint to FOS
+> 
+> 
+> ========
+> 
+> Dear Mathew Thomas,
+> 
+I am sorry to hear that you have had a disappointing experience with our company. I want to assure you that we take all complaints seriously and are committed to > resolving them promptly and fairly.
+> 
+To better understand your concerns, I would like to speak with you directly. Could you please contact our complaints team at complaints@118118money.com? We will do > our best to address any issues you have encountered and provide a suitable resolution.
+> 
+> I look forward to speaking with you soon.
+> 
+> Sincerely,
+> Jonathan Black
+> Senior Engagement Manager
+> 
+> ========
+> 
+> {
+> "assessment_grade": "A",
+> "summary": "Compliant response with polite tone"
+> }

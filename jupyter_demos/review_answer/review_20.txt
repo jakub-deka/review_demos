@@ -1,0 +1,27 @@
+Matthew Gaughran wrote:
+Really unhappy. Loan ended and they still took a full payment! Had to contact them myself. Waited ages to speak to someone who struggled to understand me, there was a clear language barrier. The refund for the overpayment isn't instant and I have to wait for it. The advisor wasn't understanding or compassionate regarding the clear issue. Raised a complaint to be advised they have over 4 weeks to respond. Disgusting Update:A complaint was only raised today. Even though I asked the agent on the day to raise a complaint. Joke of a company.
+
+
+========
+
+Here is the output:
+
+Dear Matthew Gaughran,
+
+I am sorry to hear that you had a frustrating experience with us recently. We take all complaints seriously and would like to make things right. I understand that having to contact us yourself can be inconvenient, and we apologize for any difficulties you faced when trying to get in touch with one of our advisors.
+
+I would like to offer my assistance in resolving this matter. If you could please contact our complaints team at complaints@118118money.com, we will do our best to investigate your concerns and provide a suitable resolution.
+
+Thank you for bringing this issue to our attention.
+
+Sincerely,
+Jonathan Black, Senior Engagement Manager
+
+========
+
+{
+    "assessment_grade": "C",
+    "summary": "Reply partially compliant with prompt; lacks empathy and understanding"
+}
+
+

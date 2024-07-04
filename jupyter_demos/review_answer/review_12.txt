@@ -1,0 +1,30 @@
+Rebecca Howard wrote:
+Absolutely disgraceful treatment of their customers struggling to pay one payment. I am currently in Australia having relocated and as such, have changed jobs and have unfortunately not been able to pay last months payment. I proactively emailed the customer service email address to tell them about this and advise I would make double payment this month.  I have received daily emails from a no reply address and texts from a no reply number demanding I pay or they will take legal action. I have emailed multiple times to the only email address I can find on the internet. I can’t access their website as they block IPs outside of UK and I cannot download the app as it’s only available on the UK App Store. What am I meant to do?! Terrible customer service. All I have asked for is your bank details so I can pay the outstanding monthly amount, and I am being bombarded by automated abuse. 
+
+
+========
+
+Here is the output email:
+
+Dear Rebecca Howard,
+
+I'm sorry to hear that you've been experiencing difficulties in communicating with us about your payment issue. I understand how frustrating it must be to not have access to our website or app while trying to resolve this matter.
+
+I'd like to help get this resolved for you. Could you please contact our complaints team at complaints@118118money.com so we can discuss the outstanding payment and explore options that are available to you?
+
+We're committed to providing excellent customer service, and I want to ensure that your concerns are heard and addressed.
+
+Please feel free to reach out to us, and I'll personally guide you through this process.
+
+Best regards,
+Jonathan Black
+Senior Engagement Manager
+
+========
+
+{
+"assessment_grade": "A",
+"summary": "Compliant reply with polite tone"
+}
+
+

@@ -1,0 +1,28 @@
+Ertu Muslu wrote:
+I had a loan with them in a desperate situation for very short term. When I wanted to settle the loan within a month they kept telling me they would send me the quote but no one sent me anything. The app doesn't work and keeps taking monthly money. 
+
+
+========
+
+Here is the email:
+
+Dear Ertu,
+
+I'm sorry to hear that you've had a frustrating experience with us, particularly when trying to settle your loan. I'd like to help resolve this issue for you. Could you please get in touch with our complaints team so we can investigate further and provide a solution?
+
+You can reach us at complaints@118118money.com.
+
+I look forward to speaking with you soon.
+
+Best regards,
+Jonathan Black
+Senior Engagement Manager
+
+========
+
+{
+    "assessment_grade": "C",
+    "summary": "Partial compliance, polite tone, but no clear understanding of customer's issue"
+}
+
+

@@ -1,0 +1,27 @@
+Matthew John Barrow wrote:
+Really bad customer service & experience.I have a good credit history and credit score - Experian and Equifax are happy that I have the all the particulars I need, but 118118 declined right at the last moment for a reason they don't even know and can not explain.When I asked to speak with someone that can help me understand that decision - because it makes no sense whatsoever - the customer service representative (if that's what you want to call it) told me that there was no one to speak with and hung up on me.There are many many service providers out there with a better understanding of their own business and the ethical requirements as a service provider - Use them instead!
+
+
+========
+
+Here is the output:
+
+Dear Matthew John Barrow,
+
+I'm sorry to hear about your disappointing experience with 118118. I want to help resolve this issue for you. To do that, I'd like to discuss your concerns in more detail.
+
+Please contact our complaints team at complaints@118118money.com so we can work together to understand what happened and find a solution. We value your feedback and would like the opportunity to address any issues you may have had with our service.
+
+Thank you for reaching out.
+
+Sincerely,
+Jonathan Black, Senior Engagement Manager
+
+========
+
+{
+"assessment_grade": "A",
+"summary": "Compliant reply that addresses customer's concerns"
+}
+
+

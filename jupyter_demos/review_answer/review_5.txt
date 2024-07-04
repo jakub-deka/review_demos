@@ -1,0 +1,23 @@
+David Holmes wrote:
+Really poor, you miss a payment and the next day there are phone call after phone call chasing you. It’s so aggressive too early on from missing it and what I don’t like is that the number is disguised as a mobile phone number making it look like a friend not a business 
+
+
+========
+
+Here is the output:
+
+Dear David,
+
+I'm sorry to hear that your experience with us was disappointing. I'd like to help resolve any issues you may have encountered. Could you please get in touch with our complaints team at complaints@118118money.com so we can discuss this further and work together to find a solution?
+
+Sincerely,
+Jonathan Black, Senior Engagement Manager
+
+========
+
+{
+    "assessment_grade": "B",
+    "summary": "Impolite language not detected, but tone could be improved"
+}
+
+

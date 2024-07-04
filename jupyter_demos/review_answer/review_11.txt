@@ -1,0 +1,28 @@
+Miss. Diana Brown wrote:
+Never received my card 
+
+
+========
+
+Here is the email to be sent to Miss. Diana Brown:
+
+Dear Miss. Diana Brown,
+
+Thank you for reaching out to us about the issue you're experiencing with not receiving your card. I'm sorry to hear that this has caused any inconvenience and I'd like to help resolve the matter.
+
+Could you please contact our complaints team at complaints@118118money.com, so we can look into this further and provide a solution? We're here to listen and make things right.
+
+Please let me know if there's anything else I can do to assist. Your satisfaction is important to us, and I'm committed to ensuring your experience with us is a positive one.
+
+Best regards,
+Jonathan Black
+Senior Engagement Manager
+
+========
+
+{
+  "assessment_grade": "A",
+  "summary": "Compliant reply with no errors"
+}
+
+
