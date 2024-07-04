@@ -12,9 +12,9 @@ Take a step back and think step-by-step about how to achieve the best outcome by
 
 3. Identify key issue that was brought up in each review. This could be positive or negative thing.
 
-4. Aggregate the issues encountered and summarise the type of the issues in a table with no more than 10 categories. Calculate how many reviews fallen into each category.
+4. Draft a short summary of the key issues in the reviews provided.
 
-5. Draft a short summary of the key issues in the reviews provided
+5. Write a summary of all the NEGATIVE reviews too, as these can be insightful.
 
 # OUTPUT INSTRUCTIONS
 

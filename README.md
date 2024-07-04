@@ -22,6 +22,8 @@ To run or modify the demos you need following:
 
 * Docker (to get the docker application running using docker compose)
 * An IDE that can connect to a remote host. I recommend VS Code with dev containers extension
+* A nvidia GPU to speed up the generation of responses. It is possible to do it using CPU only mode, but it will take a lot longer to do.
+* Nvidia CUDA toolkit installed on the machine running docker.
 
 To run the demos:
 
@@ -44,3 +46,42 @@ The script will do following:
 2. Send the reviews one by one to llama3 model that has been instructed to analyse them.
 3. Collect output of the model in JSON format.
 4. Aggregate it and display it as a table.
+
+![alt text](review_extractor_graph.png)
+
+## Review summariser
+
+This will take a large number of reviews and summarise the themes of these reviews demonstrating the capability to extract and distill meaning from volume of text that would be otherwise impossible to do for a human in the same amount of time.
+
+Example output:
+
+```
+What a treasure trove of reviews!
+
+As an expert in evaluating reviews in bulk, I've taken a step back to analyze these testimonials. Here's what stands out:
+
+**Key themes:**
+
+1. **Ease of application**: The majority of reviewers mention that the application process was fast, easy, and straightforward.
+2. **Quick response**: Many reviewers appreciate the quick turnaround time for their loan applications, with some mentioning decisions made in just a few minutes.
+3. **Good customer service**: Several reviewers highlight the excellent customer support they received during the application process or after approval.
+
+**Common praises:**
+
+1. Simple and easy-to-use website
+2. Quick and efficient process
+3. Helpful staff (phone and online)
+4. Easy payment options
+5. Fast decision-making
+
+**Some minor criticisms:**
+
+1. A few reviewers mention that they would have liked higher credit limits or lower interest rates.
+2. One reviewer notes that the language barrier was a slight issue, but still praises the service.
+
+**Overall sentiment:**
+
+The vast majority of reviews (around 95%) express satisfaction with their experience using 118 118 for loans. The tone is overwhelmingly positive, with reviewers appreciating the ease of application, quick response, and good customer service.
+
+As an expert in evaluating reviews in bulk, I'd give this review set a high score (around 4.5 out of 5) based on the overall positivity and consistency across the reviews.
+```
