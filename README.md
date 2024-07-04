@@ -106,9 +106,9 @@ Absolute cowboys, customer help desk is a joke if you get through, try to rip yo
 > 
 > Dear Ash,
 > 
-I am sorry to hear that your experience with our customer help desk has been disappointing. We take all complaints seriously and want to ensure that we provide the > best possible service to our customers.
+> I am sorry to hear that your experience with our customer help desk has been disappointing. We take all complaints seriously and want to ensure that we provide the > best possible service to our customers.
 > 
-I would like to take this opportunity to speak with you further about your concerns and work towards a resolution. Could you please contact us at > complaints@118118money.com so that we can discuss the issues you have faced in more detail?
+> I would like to take this opportunity to speak with you further about your concerns and work towards a resolution. Could you please contact us at > complaints@118118money.com so that we can discuss the issues you have faced in more detail?
 > 
 > I look forward to hearing from you soon.
 > 
@@ -124,16 +124,16 @@ I would like to take this opportunity to speak with you further about your conce
 
 
 > Mathew Thomas wrote:
-Awful company, believe me once they have your bank details they will help themselves to whatever they want whenever they want.Customer service are useless and the complaints team are less than useless and will just send standard responses very close to the contracted deadlines.Do yourselves a favour and visit a loan shark > instead of this cowboy outfit as the service you receive will be more compassionate.Escalating complaint to FOS
+> Awful company, believe me once they have your bank details they will help themselves to whatever they want whenever they want.Customer service are useless and the complaints team are less than useless and will just send standard responses very close to the contracted deadlines.Do yourselves a favour and visit a loan shark > instead of this cowboy outfit as the service you receive will be more compassionate.Escalating complaint to FOS
 > 
 > 
 > ========
 > 
 > Dear Mathew Thomas,
 > 
-I am sorry to hear that you have had a disappointing experience with our company. I want to assure you that we take all complaints seriously and are committed to > resolving them promptly and fairly.
+> I am sorry to hear that you have had a disappointing experience with our company. I want to assure you that we take all complaints seriously and are committed to > resolving them promptly and fairly.
 > 
-To better understand your concerns, I would like to speak with you directly. Could you please contact our complaints team at complaints@118118money.com? We will do > our best to address any issues you have encountered and provide a suitable resolution.
+> To better understand your concerns, I would like to speak with you directly. Could you please contact our complaints team at complaints@118118money.com? We will do > our best to address any issues you have encountered and provide a suitable resolution.
 > 
 > I look forward to speaking with you soon.
 > 
