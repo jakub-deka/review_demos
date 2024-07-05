@@ -1,18 +1,20 @@
-Miss. Diana Brown wrote:
-Never received my card 
+Sandra R. wrote:
+I have tried on several occasions to request refunds from 118 118 for transactions that I had processed. One had been a show I attended which went really badly, was chaotic and awful. I had contacted the organisers of the event asking for my refund and because they are based outside the country, they declined refund. Naturally I went to my credit card company (118) who refused to refund the money stating “you attended the event, it wasn’t cancelled” and declined to help me further.Second time I made a payment for a holiday thinking I was paying for a deposit only to realise a full payment was taken from my card. Within 12hrs of getting the notification I contacted 118 asking them to reverse the payment. I was told we can’t because it’s still showing as pending. When it was cleared I rang 118 begging them to cancel the payment as it was a genuine mistake. I was I told we don’t do that because the company did not cancel the holiday. What is the point of having a credit card? This company is very very unhelpful and extremely unfair. After finishing my payment I will be cancelling my credit card account. 
 
 
 ========
 
-Here is the email to be sent to Miss. Diana Brown:
+Here is the email to Sandra R:
 
-Dear Miss. Diana Brown,
+Dear Sandra,
 
-Thank you for reaching out to us about the issue you're experiencing with not receiving your card. I'm sorry to hear that this has caused any inconvenience and I'd like to help resolve the matter.
+I am writing to you in response to your recent complaint regarding difficulties you've experienced with 118 118's refund process. I understand that these issues have caused frustration and inconvenience, and for that, I apologize.
 
-Could you please contact our complaints team at complaints@118118money.com, so we can look into this further and provide a solution? We're here to listen and make things right.
+To better assist you, I would like to request a call from you so we can discuss the specifics of each situation in more detail. Your feedback is invaluable in helping us improve our processes and ensure our customers receive the support they deserve.
 
-Please let me know if there's anything else I can do to assist. Your satisfaction is important to us, and I'm committed to ensuring your experience with us is a positive one.
+Please feel free to contact me at complaints@118118money.com or call us at [insert phone number]. We will do our best to address your concerns and find a resolution that works for you.
+
+Thank you for bringing this to my attention. I look forward to speaking with you soon.
 
 Best regards,
 Jonathan Black
@@ -21,8 +23,9 @@ Senior Engagement Manager
 ========
 
 {
-  "assessment_grade": "A",
-  "summary": "Compliant reply with no errors"
+  "assessment_grade": "B",
+  "summary": "Some issues found, but generally compliant"
 }
+```
 
 

@@ -22,3 +22,15 @@ services:
     volumes:
       - ../jupyter_demos://home
     stop_grace_period: 1s
+  jupyter:
+    build: jupyter
+    image: jakub-deka/jupyter
+    # image: jupyter/datascience-notebook:x86_64-latest
+    container_name: jupyter
+    hostname: jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - ../jupyter_demos://home/jovyan/demo
+    environment:
+      - JUPYTER_TOKEN=0800

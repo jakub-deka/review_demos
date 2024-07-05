@@ -1,16 +1,18 @@
-Mr. Kevin Mattammal Jacob wrote:
-i didn't get the credit card site problem
+David Holmes wrote:
+Really poor, you miss a payment and the next day there are phone call after phone call chasing you. It’s so aggressive too early on from missing it and what I don’t like is that the number is disguised as a mobile phone number making it look like a friend not a business 
 
 
 ========
 
-Dear Mr. Kevin Mattammal Jacob,
+Dear David,
 
-Thank you for taking the time to share your concerns with us regarding issues with our credit card site. I apologize that you have experienced difficulties and would like to take this opportunity to offer my assistance in resolving the matter.
+I appreciate you taking the time to share your concerns about your experience with our company. I'm sorry to hear that our communication style fell short of your expectations.
 
-Could you please get in touch with me at complaints@118118money.com so we can discuss the issue further and work together to find a solution?
+We understand that missing a payment can be stressful, and we're committed to supporting our customers in these situations. Our goal is to provide helpful assistance while respecting your time and privacy.
 
-Please let me know if there is anything specific you would like us to focus on during our conversation. I am here to help and look forward to hearing from you soon.
+I'd like to learn more about your experience and explore ways we can improve. If you could contact us at complaints@118118money.com, I'll make sure to personally handle your concerns and work towards a resolution that meets your needs.
+
+Please let me know if there's anything specific I can do to assist you further.
 
 Best regards,
 Jonathan Black
@@ -19,8 +21,8 @@ Senior Engagement Manager
 ========
 
 {
-    "assessment_grade": "A",
-    "summary": "Compliant reply with polite tone"
+"assessment_grade": "A",
+"summary": "Compliant reply with polite tone"
 }
 
 

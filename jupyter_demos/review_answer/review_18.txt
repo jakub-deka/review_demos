@@ -1,18 +1,18 @@
-Steven wrote:
-I was accepted for a loan of 2500 pounds over 3 years. Signed the forms gave them my bank details and card details as i was told id been approved. Gave them all the information they requested to be then told declined. Shocking service and system in place as they also done hard credit check which is now on my file. I want this removed as i didnt recieve the product after a hard credit check. 
+Consumer wrote:
+Absolute disgrace of a company I have had to contact the financial ombudsman over this company various emails just ignored complaint ignored twice via email my credit score was severely affected due to 118 118 money ignoring what needed to be amended on my credit file now I have to wait a further 90 days to get this amended I have now logged this with there ceo he is the only one in the company who has responded I’m now waiting a further reply from the head of customer services I won’t hold my breath I will be instructing solicitors if you email the complaints team they ignore you 
 
 
 ========
 
-Dear Steven,
+Dear [Customer Name],
 
-I am sorry to hear that you experienced difficulties with your loan application. I would like to help address your concerns and provide a resolution.
+I am reaching out to you regarding your recent experience with 118 118 Money. It's unacceptable that you've had to go through so much frustration, and I apologize for any distress caused.
 
-Could you please contact our complaints team at complaints@118118money.com so we can further discuss this matter? We will do our best to understand the situation and find a suitable solution for you.
+We take all complaints seriously, and I would like to invite you to contact our dedicated complaints team directly at complaints@118118money.com. We're committed to addressing your concerns and working towards a resolution.
 
-Please let me know if there is anything specific you would like us to focus on during our conversation. I look forward to speaking with you soon.
+Your prompt attention will enable us to investigate the matter further and provide a meaningful response.
 
-Best regards,
+Sincerely,
 Jonathan Black
 Senior Engagement Manager
 
@@ -20,7 +20,7 @@ Senior Engagement Manager
 
 {
     "assessment_grade": "A",
-    "summary": "Compliant reply; minor issues with tone"
+    "summary": "Compliant reply with polite tone"
 }
 
 

@@ -1,18 +1,14 @@
-Consumer wrote:
-Absolute disgrace of a company I have had to contact the financial ombudsman over this company various emails just ignored complaint ignored twice via email my credit score was severely affected due to 118 118 money ignoring what needed to be amended on my credit file now I have to wait a further 90 days to get this amended I have now logged this with there ceo he is the only one in the company who has responded I’m now waiting a further reply from the head of customer services I won’t hold my breath I will be instructing solicitors if you email the complaints team they ignore you 
+Matthew John Barrow wrote:
+Really bad customer service & experience.I have a good credit history and credit score - Experian and Equifax are happy that I have the all the particulars I need, but 118118 declined right at the last moment for a reason they don't even know and can not explain.When I asked to speak with someone that can help me understand that decision - because it makes no sense whatsoever - the customer service representative (if that's what you want to call it) told me that there was no one to speak with and hung up on me.There are many many service providers out there with a better understanding of their own business and the ethical requirements as a service provider - Use them instead!
 
 
 ========
 
-Dear Consumer,
+Dear Matthew John Barrow,
 
-I am reaching out to you directly as we take all complaints seriously and would like to better understand your experience with our company. Despite previous attempts, it appears that your concerns have not been fully addressed. I want to assure you that we value your time and effort in bringing this matter to our attention.
+I am reaching out to you in regards to your recent experience with 118118. I apologize that our customer service did not meet your expectations, and for any inconvenience this may have caused.
 
-We understand that a swift resolution is crucial, particularly when it comes to matters affecting credit scores. I would like to encourage you to contact our dedicated complaints team at complaints@118118money.com, so we can investigate further and work towards a prompt resolution.
-
-Please let me know if there's anything specific you'd like us to address or any additional information you're willing to provide. Your input will be invaluable in helping us improve our processes and ensure that similar issues do not occur in the future.
-
-I look forward to hearing from you soon.
+I would like to take this opportunity to understand the issue better and see if we can find a solution that works for you. Would you please contact our complaints team at complaints@118118money.com so that we can discuss this further?
 
 Sincerely,
 Jonathan Black, Senior Engagement Manager
@@ -20,8 +16,8 @@ Jonathan Black, Senior Engagement Manager
 ========
 
 {
-"assessment_grade": "B+",
-"summary": "Compliant with prompt, but tone could be improved"
+    "assessment_grade": "A",
+    "summary": "Compliant reply with polite tone"
 }
 
 

@@ -1,14 +1,16 @@
-Sandra R. wrote:
-I have tried on several occasions to request refunds from 118 118 for transactions that I had processed. One had been a show I attended which went really badly, was chaotic and awful. I had contacted the organisers of the event asking for my refund and because they are based outside the country, they declined refund. Naturally I went to my credit card company (118) who refused to refund the money stating “you attended the event, it wasn’t cancelled” and declined to help me further.Second time I made a payment for a holiday thinking I was paying for a deposit only to realise a full payment was taken from my card. Within 12hrs of getting the notification I contacted 118 asking them to reverse the payment. I was told we can’t because it’s still showing as pending. When it was cleared I rang 118 begging them to cancel the payment as it was a genuine mistake. I was I told we don’t do that because the company did not cancel the holiday. What is the point of having a credit card? This company is very very unhelpful and extremely unfair. After finishing my payment I will be cancelling my credit card account. 
+Andy Jaszczyk wrote:
+The worst company I have ever know. They take money out of your account with out your permission just because it’s been used to make a payment once. After they have told them to take the account off the system they then take a payment again so clearly haven’t. When you call to speak to someone they aren’t helpful. They give you different values that you owe as a payment. After taking money out of an account they don’t have authorisation on, say you owe the amount again then when you pay that money still hound you with multiple calls per day. When you speak to them they say “every manager is a meeting” they then end your call. Even worse communication and telephone manor than British Gas and that’s saying something. Everyone avoid at all costs 
 
 
 ========
 
-Dear Sandra,
+Dear Andy Jaszczyk,
 
-I'm sorry to hear about the difficulties you've experienced with our refunds process. It's clear that these situations have caused frustration and disappointment for you. I'd like to help address your concerns and work towards a resolution.
+I've reviewed your concerns about our company, and I want to assure you that we take each complaint seriously. It's clear that you're experiencing some difficulties with us, and for that, I apologize.
 
-Would you please contact us at complaints@118118money.com so we can discuss these issues further? I'll make sure to investigate each case thoroughly and explore possible solutions with you.
+I'd like to invite you to contact our complaints team directly so we can work together to resolve these issues. Our team is dedicated to finding a solution that meets your needs, and we'll do everything possible to ensure a positive outcome.
+
+Please don't hesitate to reach out to us at complaints@118118money.com. We're committed to providing excellent customer service, and I'm confident that we can find a way forward together.
 
 Sincerely,
 Jonathan Black
@@ -18,7 +20,7 @@ Senior Engagement Manager
 
 {
 "assessment_grade": "B",
-"summary": "Mostly compliant, minor tone issues"
+"summary": "Reply lacks specific resolution"
 }
 
 

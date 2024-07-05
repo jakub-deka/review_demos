@@ -1,24 +1,25 @@
-Andy Rout wrote:
-owed 8.50  1 month of 55 telephone calls 48 texts and 50 emails. they must be desperate for cash
+Katy wrote:
+Wouldn't let me go on my account whilst I'm on holiday, ignored my emails but still keep sending me arrears emails.. why don't you sort it out so people can get on the website or app when they are on holiday. What happens if my card gets stolen.. do I just wait until I get home?Update: After a complaint was raised, again 118 closed it stating I had never emailed them. So I replied with the evidence (screenshot of my sent emails) and then they started ignoring me again. I find that they try and avoid you when you are right and can prove it, they would of seen my sent emails so clearly they lied. 
 
 
 ========
 
-Dear Andy,
+Dear Katy,
 
-Thank you for sharing your concerns with us about your recent experience with our company. We apologize that it has not met your expectations, and we would like to discuss this further with you.
+I'm Jonathan Black from the complaints team at 118118money.com. I've been made aware of your concerns regarding issues with accessing your account while on holiday, and I apologize for any frustration this has caused.
 
-Could you please contact us at complaints@118118money.com so we can better understand the issues you've faced and work together to find a solution?
+I'd like to invite you to contact us directly so that we can investigate and resolve these matters as soon as possible. We understand the importance of being able to manage your account from anywhere, and we're committed to finding a solution that works for you.
 
-Sincerely,
-Jonathan Black
-Senior Engagement Manager
+Please feel free to reach out to us at complaints@118118money.com, and I'll personally ensure that your concerns are addressed.
+
+Best regards,
+Jonathan Black, Senior Engagement Manager
 
 ========
 
 {
-"assessment_grade": "A",
-"summary": "Compliant reply addressing customer concerns"
+"assessment_grade": "B",
+"summary": "Partial compliance with prompt, minor issues with tone"
 }
 
 

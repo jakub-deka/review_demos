@@ -1,3 +1,14 @@
+# Quickstart
+
+To get this project running locally do the following.
+
+1. Clone this repo to some folder `gh repo clone jakub-deka/review_demos`.
+2. Navigate to the repo folder `cd review_demos/review_app`.
+3. Get the docker stack running `docker compose up --build`. This may take some time.
+4. Once the stack is running navigate to `http://localhost:8888` to open jupyter notebook interface.
+5. To login use token `0800`.
+6. Navigate to the demos in the notebooks on the left.
+
 # Introduction
 
 This is a collection of demos demonstrating capabilities of locally running LLMs like llama3 in combination with open source frameworks like haystack.

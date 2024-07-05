@@ -1,27 +1,27 @@
-Matthew Gaughran wrote:
-Really unhappy. Loan ended and they still took a full payment! Had to contact them myself. Waited ages to speak to someone who struggled to understand me, there was a clear language barrier. The refund for the overpayment isn't instant and I have to wait for it. The advisor wasn't understanding or compassionate regarding the clear issue. Raised a complaint to be advised they have over 4 weeks to respond. Disgusting Update:A complaint was only raised today. Even though I asked the agent on the day to raise a complaint. Joke of a company.
+Ertu Muslu wrote:
+I had a loan with them in a desperate situation for very short term. When I wanted to settle the loan within a month they kept telling me they would send me the quote but no one sent me anything. The app doesn't work and keeps taking monthly money. 
 
 
 ========
 
-Here is the output:
+Dear Ertu,
 
-Dear Matthew Gaughran,
+Thank you for reaching out to us about your concerns regarding your loan experience with our company. I'm here to listen and help resolve any issues you may be facing.
 
-I am sorry to hear that you had a frustrating experience with us recently. We take all complaints seriously and would like to make things right. I understand that having to contact us yourself can be inconvenient, and we apologize for any difficulties you faced when trying to get in touch with one of our advisors.
+I'd like to learn more about the situation you're describing, where you were trying to settle the loan within a month but didn't receive the quote as promised. Additionally, I've taken note that you mentioned issues with our app and concerns about monthly payments being taken without your consent.
 
-I would like to offer my assistance in resolving this matter. If you could please contact our complaints team at complaints@118118money.com, we will do our best to investigate your concerns and provide a suitable resolution.
+To better assist you, I would appreciate it if you could contact us directly so we can further investigate this matter together. You can reach out to our complaints team at complaints@118118money.com or give us a call.
 
-Thank you for bringing this issue to our attention.
+I look forward to speaking with you soon and working towards finding a solution that meets your needs.
 
-Sincerely,
+Best regards,
 Jonathan Black, Senior Engagement Manager
 
 ========
 
 {
-    "assessment_grade": "C",
-    "summary": "Reply partially compliant with prompt; lacks empathy and understanding"
+"assessment_grade": "A",
+"summary": "Compliant response addressing customer's concerns"
 }
 
 

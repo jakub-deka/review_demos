@@ -1,26 +1,25 @@
-Tom Obemiaso wrote:
-Stay clear of 118 money , credit cards or loans. The company is so bad ..  the app is unreliable, you are never able to get customer service on the phone and the interest rates ... they are comparable to loan sharks. How this company is still in business is a failing of the financial ombudsman.
+Jasper Libby wrote:
+Absolutely awful experience with 118.Paid off my credit card with never missing a payment.I paid off my credit card so the balance on the card was £0.They then charged my subscription fee of £8 which I didnt notice, me being me didn't realise they still charged this fee after you paid the card off. So I hold my hands up to that.Logged onto my online app on the Monday when the payment was due and thought I paid for the £8 there and then for this subscription fee but for some reason it didnt go through, no idea why.118 contacted me on the Tuesday saying payment missed, and this will now effect my credit.But this is a subscription fee? The card isnt in arreas, the balance is £0 why should they classed this as missed payment? Anyway, seeing as I was a day late in paying for the subscription fee even though the card was at £0 they put this down as a missed payment which will now go down on my credit report, which will now effect all my future plans with buying my first home. Tried to call 118 to beg them this was a genuine mistake but they said they couldn't do anything about it, and couldn't change the fact that even though I was just 12 hours "late" in not paying back the subscription fee it was going as a missed payment, and I would need to contact all the credit agencies to dispute this... which we all know is an absolute nightmare. They were no help what so ever and they didn't even take into account how much this will financially ruin me. I've worked so hard to get my credit score up to excellent and due to this genuine mistake they have ruined it all for me. Also tried to close my account and they finally closed it after the third request.An absolute awful company who really will do nothing for you. I was so upset on the phone and the lady was so robotic SO textbook.Didnt take into my personal situation at all, and the whole company are so heartless and just disgusting. 
 
 
 ========
 
-Dear Tom Obemiaso,
+Dear Jasper Libby,
 
-I would like to personally reach out to you regarding your concerns about 118 Money. I understand that you have experienced some difficulties with our services, and I want to assure you that we take all complaints seriously.
+I've taken the time to review your recent experience with us, and I'm sorry to hear that it's been frustrating and disappointing. I understand how upsetting it must be to have a mistake like this affect your credit score.
 
-Could you please contact us directly at complaints@118118money.com so that we can discuss the issues you've faced in more detail? This will enable us to better understand your concerns and work together to find a resolution.
+I'd like to help resolve this issue for you. If you're willing, could you please contact our complaints team at complaints@118118money.com? We'll do our best to look into what happened and see if there's anything we can do to rectify the situation.
 
-Thank you for bringing this to our attention, and I look forward to hearing from you soon.
+I'm Jonathan Black, Senior Engagement Manager.
 
 Best regards,
-Jonathan Black
-Senior Engagement Manager
+Jonathan Black, Senior Engagement Manager
 
 ========
 
 {
-    "assessment_grade": "B",
-    "summary": "Partially compliant with prompt"
+    "assessment_grade": "A",
+    "summary": "Compliant reply with minor errors"
 }
 
 

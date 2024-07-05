@@ -1,18 +1,18 @@
-Ash wrote:
-Absolute cowboys, customer help desk is a joke if you get through, try to rip you off as much as they can . I tried to close my account ( which they make increasingly difficult ) the person on the end of the phone had no idea and was trying to tell me I owed more than I did and when I questioned it they put it down to computer error !!!! Tried to complain to the complaints department and got standard can’t help you apology 
+Mr. James Opoku wrote:
+I applied for a credit card and was notified that it had been dispatched. About 2 weeks down the line and I’ve still not received it
 
 
 ========
 
-Here is the email:
+Here is the email to be sent to Mr. James Opoku:
 
-Dear Ash,
+Dear James,
 
-I am sorry to hear that your experience with our customer help desk has been disappointing. We take all complaints seriously and want to ensure that we provide the best possible service to our customers.
+Thank you for reaching out to us regarding your concerns with your recent credit card application. We apologize that you have yet to receive your card, despite being notified that it had been dispatched.
 
-I would like to take this opportunity to speak with you further about your concerns and work towards a resolution. Could you please contact us at complaints@118118money.com so that we can discuss the issues you have faced in more detail?
+We would appreciate the opportunity to investigate this matter further and explore possible solutions to get your credit card to you as soon as possible. To assist us in resolving your issue, could you please contact our complaints team at complaints@118118money.com?
 
-I look forward to hearing from you soon.
+We look forward to hearing from you and working together to find a solution.
 
 Best regards,
 Jonathan Black, Senior Engagement Manager
@@ -20,8 +20,8 @@ Jonathan Black, Senior Engagement Manager
 ========
 
 {
-"assessment_grade": "A",
-"summary": "Polite and compliant response"
+    "assessment_grade": "A",
+    "summary": "Compliant response with polite tone"
 }
 
 

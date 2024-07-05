@@ -1,16 +1,16 @@
-Darran Watson wrote:
-What a total faff, log on to this code, oh yeah total crap, load of bull, will be returning card as soon as it arrives, just as the Zopla card, pennies limit… keep it… Do not use 118 money…
+Andy Rout wrote:
+owed 8.50  1 month of 55 telephone calls 48 texts and 50 emails. they must be desperate for cash
 
 
 ========
 
-Dear Darran,
+Dear Andy,
 
-I've taken some time to review your recent feedback and understand that you're not satisfied with a particular experience. I apologize that our service didn't meet your expectations.
+I'm sorry to hear that you're feeling frustrated with our service. I understand how important it is to have a clear understanding of your account balance, especially when it comes to billing for services like the ones you've used.
 
-I'd like to help resolve the issue you're facing, but to do so, I need a bit more information from you. Could you please reach out to us at complaints@118118money.com? This will enable me to better understand the situation and work on finding a solution that suits your needs.
+I'd love the opportunity to discuss this further with you and help resolve any issues you may be experiencing. If you could kindly get in touch with us at complaints@118118money.com, I'll be happy to listen to your concerns and work together to find a solution that meets your needs.
 
-I'm looking forward to hearing back from you and putting things right.
+Looking forward to hearing from you soon.
 
 Best regards,
 Jonathan Black
@@ -20,7 +20,7 @@ Senior Engagement Manager
 
 {
     "assessment_grade": "A",
-    "summary": "Polite and thorough response"
+    "summary": "Compliant reply with no issues"
 }
 
 

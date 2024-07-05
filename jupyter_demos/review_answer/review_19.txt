@@ -1,18 +1,22 @@
-Ertu Muslu wrote:
-I had a loan with them in a desperate situation for very short term. When I wanted to settle the loan within a month they kept telling me they would send me the quote but no one sent me anything. The app doesn't work and keeps taking monthly money. 
+Steven wrote:
+I was accepted for a loan of 2500 pounds over 3 years. Signed the forms gave them my bank details and card details as i was told id been approved. Gave them all the information they requested to be then told declined. Shocking service and system in place as they also done hard credit check which is now on my file. I want this removed as i didnt recieve the product after a hard credit check. 
 
 
 ========
 
 Here is the email:
 
-Dear Ertu,
+Dear Steven,
 
-I'm sorry to hear that you've had a frustrating experience with us, particularly when trying to settle your loan. I'd like to help resolve this issue for you. Could you please get in touch with our complaints team so we can investigate further and provide a solution?
+Thank you for taking the time to share your concerns with us about your recent loan application experience. We are sorry to hear that you were not offered the loan as expected, despite being approved initially.
 
-You can reach us at complaints@118118money.com.
+We understand how frustrating this must have been for you, and we want to assure you that we take all complaints seriously. To better assist you, we would like to discuss this matter further with you directly.
 
-I look forward to speaking with you soon.
+Could you please contact our dedicated Complaints Team at complaints@118118money.com? We will be happy to investigate your case and work towards a resolution that meets your needs.
+
+Please let us know if there is anything specific you would like to discuss or any additional information you can provide. Your feedback is invaluable in helping us improve our services, and we appreciate your cooperation.
+
+Looking forward to hearing from you soon.
 
 Best regards,
 Jonathan Black
@@ -21,8 +25,8 @@ Senior Engagement Manager
 ========
 
 {
-    "assessment_grade": "C",
-    "summary": "Partial compliance, polite tone, but no clear understanding of customer's issue"
+"assessment_grade": "B",
+"summary": "Compliant email with minor issues"
 }
 
 
